@@ -1,0 +1,83 @@
+.advantege {
+display: inline-block;
+margin-left: -9px;
+background: url(http://localhost/wordpress/wp-content/uploads/2017/09/fon2.png) no-repeat;
+background-size: cover;
+width: 1144px;
+height: 636px;
+padding-left: 138px;
+margin-top: 20px;
+}
+.title-advantege {
+padding-left: 422px;
+padding-top: 38px;
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 26px;
+font-weight: 500;
+text-transform: uppercase;
+}
+
+.view-stock {
+border: none;
+margin-left: 380px;
+margin-top: 54px;
+width: 244px;
+height: 45px;
+background-color: #fbb82a;
+color: #111111;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 500;
+text-transform: uppercase;
+}
+.content:hover {
+background-color: #fbb82a;}
+.content {
+display: list-item;
+margin-right: 26px;
+margin-bottom: 20px;
+margin-top: 10px;
+height: 70px;
+width: 489px;
+background-color: #ffffff;
+}
+
+ol {
+list-style-image: none;
+list-style-type: decimal-leading-zero;
+padding-left: 20px;
+padding-right: 18px;
+color: #000000;
+font-family: "Fira Sans";
+font-size: 26px;
+font-weight: 400;
+
+}
+.left {
+float: left;
+margin-left: -23px;
+margin-top: -14px;
+}
+.right {
+float: right;
+margin-right: 60px;
+margin-top: -14px;
+}
+
+.content-tex {
+display: inline-block;
+padding-top: 10px;
+padding-left: 85px;
+text-align: left;
+padding-right: 69px;
+color: #000000;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 500;
+width: 281px;
+}
+
+
+
+

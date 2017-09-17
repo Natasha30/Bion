@@ -1,0 +1,23 @@
+.terra-center {
+margin-top: 267px;
+width: 450px;
+height: 160px;
+background-color: #2aa438;
+}
+.bion-center {
+color: #fbb82a;
+font-family: "Fira Sans";
+font-size: 30px;
+font-weight: 500;
+line-height: 16px;
+text-transform: uppercase;
+text-align: center;
+padding-top: 57px;
+}
+.p {
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 400;
+margin-left: 53px;
+}

@@ -1,0 +1,71 @@
+footer {
+width: 1280px;
+height: 209px;
+background-color: #15521c;
+margin-left: -8px;
+}
+.footer {
+	display: flex;
+	justify-content: space-between;
+}
+.TitleName {
+opacity: 0.5;
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 30px;
+font-weight: 500;
+line-height: 28.96px;
+text-transform: uppercase;
+}
+.fotterTitle {
+margin-top: 5px;
+margin-bottom: 14px;
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 400;
+text-transform: uppercase;
+}
+.fotterContent {
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 12px;
+font-weight: 300;
+
+}
+.information {
+display: inline-grid;
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 10px;
+font-weight: 400;
+margin-top: 61px;
+margin-bottom: 108px;
+margin-right: 76px;
+}
+.title {
+	margin-left: 45px;
+    margin-top: 30px;
+}
+.footerNav {
+	 line-height: 18.97px;
+       margin-top: 56px;
+}
+.made {
+opacity: 0.5;
+color: #ffffff;
+font-family: "Fira Sans";
+font-size: 10px;
+font-weight: 400;
+}
+.WhiteRed {
+width: 87px;
+height: 22px;
+opacity: 0.5;
+}
+
+.logo-WR{
+	margin-top: 128px;
+    margin-left: -397px;
+    margin-right: 79px;
+}

@@ -1,0 +1,92 @@
+
+.news {
+display: inline-block;
+background: url(http://localhost/wordpress/wp-content/uploads/2017/09/fon3.png) no-repeat;
+background-size: cover;
+width: 1280px;
+height: 471px;
+margin-left: -8px;
+padding-top: 66px;
+
+}
+.view {
+float: right;
+margin-right: 35px;
+margin-top: 32px;
+color: #111111;
+font-family: "Fira Sans";
+font-size: 12px;
+font-weight: 500;
+text-decoration: underline;
+text-transform: uppercase;
+}
+.news-content {
+margin-left: 270px;
+width: 740px;
+height: 83px;
+background-color: #ffffff;
+}
+hr {
+width: 664px;
+color: #dddddd;
+margin-left: 35px;
+border: none; 
+background-color: #dddddd; 
+height: 1px;
+
+
+}
+p {
+	display: inline-block;
+}
+.news-title {
+margin-top: 22px;
+margin-left: 27px;
+color: #111111;
+font-family: "Fira Sans";
+font-size: 26px;
+font-weight: 500;
+text-transform: uppercase;
+}
+.newsTitle {
+width: 740px;
+height: 70px;
+background-color: #fbb82a;
+margin-left: 270px;
+}
+.news-data {
+color: #fbb82a;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 500;
+text-transform: uppercase;
+padding-left: 35px;
+padding-top: 10px;
+margin-bottom: -2px;
+border-right: 1px solid #dddddd;
+width: 89px;
+height: 50px;
+
+
+
+}
+b {
+font-family: "Fira Sans";
+font-size: 30px;
+font-weight: 500;
+text-transform: uppercase;
+padding-right: 10px;
+}
+.news-data-text {
+color: #222222;
+font-family: "Fira Sans";
+font-size: 14px;
+font-weight: 500;
+padding-left: 19px;
+width: 543px;
+}
+.news-more {
+float: right;
+margin-top: 37px;
+margin-right: 37px;
+}
